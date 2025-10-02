@@ -1,2 +1,4 @@
 # Spotify-clone
-This s Spotify Clone
+This is Spotify Clone
+<br>
+I am Working on Navbar 
